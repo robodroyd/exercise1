@@ -1,0 +1,1 @@
+{"schemaVersion":2,"mediaType":"application/vnd.oci.image.index.v1+json","manifests":[{"mediaType":"application/vnd.oci.image.manifest.v1+json","digest":"sha256:0a8dbc83abffc27da4101737156115ed7ba05a6e2c6d6600e92638556d861a35","size":548,"annotations":{"io.containerd.image.name":"docker.io/library/sambarov:latest","org.opencontainers.image.ref.name":"latest"}}]}
